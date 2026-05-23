@@ -6,7 +6,7 @@ const experiences = [
   {
     period: "May 2025 — Present",
     duration: "1 yr 1 mo",
-    company: "Kementerian Perdagangan RI",
+    company: "Ministry of Trade - Republic of Indonesia",
     type: "Full-time · On-site",
     role: "IT Business Analyst",
     bullets: [
@@ -33,7 +33,12 @@ const experiences = [
       "Managed database operations including data setup and verification to support seamless data flow.",
       "Created comprehensive testing documentation and participated in QA process enhancement meetings.",
     ],
-    tags: ["QA", "Docker", "Database", "Testing Documentation"],
+    tags: [
+      "QA",
+      "OpenShift Container Platform",
+      "Database",
+      "Testing Documentation",
+    ],
   },
   {
     period: "Feb 2022 — Oct 2024",

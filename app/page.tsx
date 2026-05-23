@@ -1,5 +1,6 @@
 import Navbar from "@/components/ui/Navbar";
 import Footer from "@/components/ui/Footer";
+import Background from "@/components/ui/Background";
 import Hero from "@/components/sections/Hero";
 import About from "@/components/sections/About";
 import Skills from "@/components/sections/Skills";
@@ -18,6 +19,7 @@ export default function Home() {
       <Education />
       <Contact />
       <Footer />
+      <Background />
     </main>
   );
 }
