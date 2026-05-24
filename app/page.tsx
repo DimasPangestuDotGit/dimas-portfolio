@@ -7,19 +7,25 @@ import Skills from "@/components/sections/Skills";
 import Experience from "@/components/sections/Experience";
 import Education from "@/components/sections/Education";
 import Contact from "@/components/sections/Contact";
+// import IDCard from "@/components/ui/IDCard";
+// import Scorpio from "@/components/ui/Scorpio";
 
 export default function Home() {
   return (
-    <main>
-      <Navbar />
-      <Hero />
-      <About />
-      <Skills />
-      <Experience />
-      <Education />
-      <Contact />
-      <Footer />
+    <>
       <Background />
-    </main>
+      {/* <Scorpio /> */}
+      <main style={{ position: "relative", zIndex: 1 }}>
+        <Navbar />
+        <Hero />
+        <About />
+        <Skills />
+        <Experience />
+        <Education />
+        <Contact />
+        <Footer />
+      </main>
+      {/* <IDCard /> */}
+    </>
   );
 }

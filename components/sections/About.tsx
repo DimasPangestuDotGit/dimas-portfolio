@@ -6,10 +6,10 @@ const cards = [
   { icon: "📍", title: "Jakarta, Indonesia", sub: "On-site · Open to remote" },
   {
     icon: "🎓",
-    title: "S1 Teknik Informatika",
-    sub: "Universitas Kristen Satya Wacana",
+    title: "Bachelor of Informatics Engineering",
+    sub: "Satya Wacana Christian University",
   },
-  { icon: "🏦", title: "Banking & Government", sub: "BNI · Kemendag RI" },
+  { icon: "🏦", title: "Banking & Government", sub: "BNI · Ministry of Trade" },
   {
     icon: "⚙️",
     title: "Dev + QA + Analysis",

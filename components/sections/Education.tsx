@@ -81,7 +81,7 @@ export default function Education() {
                 marginBottom: "4px",
               }}
             >
-              S1 Teknik Informatika
+              Bachelor of Informatics Engineering
             </div>
             <div
               style={{
@@ -91,7 +91,7 @@ export default function Education() {
                 marginBottom: "4px",
               }}
             >
-              Universitas Kristen Satya Wacana (UKSW)
+              Satya Wacana Christian University (SWCU)
             </div>
             <div
               style={{
@@ -100,7 +100,7 @@ export default function Education() {
                 fontFamily: "Inter, sans-serif",
               }}
             >
-              Salatiga, Jawa Tengah · Computer Science
+              Salatiga, Jawa Tengah · Information Technology
             </div>
           </div>
         </motion.div>
